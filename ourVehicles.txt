@@ -1,0 +1,10 @@
+Honda,Civic
+Tesla,Model 3
+Toyota,Camry
+Ford,Explorer
+Hyundai,Santa Fe
+Subaru,Crosstrek
+BMW,3 Series
+Chevrolet,Hatchback
+Lexus,ES Hybrid
+Kia,Telluride
